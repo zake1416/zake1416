@@ -25,7 +25,7 @@
 
 
 
-## 🎯 What I Do (in practice)
+##  <p align="center"> 🎯 What I Do (in practice) </p>
 
 ```python
 class AppliedAIEngineer:
@@ -46,9 +46,9 @@ me = AppliedAIEngineer()
 print(me.philosophy())
 ```
 
-
+<br></br>
+## <p align="center">💡 Core Capabilities (Applied AI Focus) </p>
 <div align="center">
-💡 Core Capabilities (Applied AI Focus)
 <table> <tr> <th>🤖 Applied AI & LLMs</th> <th>🔄 Agentic AI Systems</th> <th>🧠 Data & Retrieval</th> <th>🛠️ Production & MLOps</th> </tr> <tr> <td>LLM Applications</td> <td>Multi-Agent Systems</td> <td>RAG Pipelines</td> <td>CI/CD for AI</td> </tr> <tr> <td>Prompt Engineering</td> <td>Planner–Executor</td> <td>Vector Search</td> <td>Model Monitoring</td> </tr> <tr> <td>GenAI APIs</td> <td>Tool Calling</td> <td>Embeddings</td> <td>Observability & QA</td> </tr> <tr> <td>AI Evaluation</td> <td>Workflow Orchestration</td> <td>Hybrid Search</td> <td>Reliability Engineering</td> </tr> </table> </div>
 
 <br></br>
