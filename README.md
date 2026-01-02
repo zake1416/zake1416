@@ -1,141 +1,78 @@
-
 <div align="center">
-  
-# 👋 Hi, I'm **Abhishek Birajdar**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=2E9EF7&center=true&vCenter=true&width=500&lines=Software+Developer;Full+Stack+Engineer;Backend+Specialist;System+Design+Enthusiast;Building+Scalable+Applications" />
+<h1>👋 Hi, I'm <strong>Abhishek Birajdar</strong></h1>
 
-### 💻 Passionate about building scalable, reliable, and user-focused software systems.
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=2E9EF7&center=true&vCenter=true&width=720&lines=Applied+AI+Engineer;Agentic+AI+%26+LLM+Systems;GenAI+Applications+%7C+RAG+%7C+MLOps;Production-Ready+AI+Systems;Building+AI+That+Actually+Ships" 
+/>
+<p>
+🤖 <strong>I build Applied AI systems</strong>  not demos! with a focus on  
+<strong>LLMs, Agentic AI, reliability, and real-world impact</strong>.
+</p>
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/acbirajdar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:acbirajdar16@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://abhishekbirajdar.github.io/website/index.html)
+<a href="https://linkedin.com/in/acbirajdar">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:acbirajdar16@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
 
 </div>
 
----
 
-## 🎯 **What I Do**
+
+## 🎯 What I Do (in practice)
+
 ```python
-class SoftwareDeveloper:
+class AppliedAIEngineer:
     def __init__(self):
         self.name = "Abhishek Birajdar"
-        self.role = "Software Engineer"
-        self.skills = ["Backend Development", "Frontend Engineering", "System Design",
-                       "APIs", "Cloud Services", "Automation"]
+        self.focus = [
+            "Applied AI & GenAI Systems",
+            "Agentic AI (Planner–Executor, Multi-Agent)",
+            "LLM Applications & RAG Pipelines",
+            "MLOps, Evaluation & Production Reliability",
+            "Enterprise-Grade AI Engineering"
+        ]
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together! 🚀")
+    def philosophy(self):
+        return "AI that ships, scales, and survives production."
 
-me = SoftwareDeveloper()
-me.say_hi()
-````
-
----
-
-<div align="center">
-
-## 💡 **Core Competencies**
-
-| 🏗️ Backend Engineering | 🎨 Frontend Development | 🔌 System Integrations | ☁️ Cloud & DevOps |
-| :---------------------: | :---------------------: | :--------------------: | :---------------: |
-|   REST / GraphQL APIs   |     Responsive UI/UX    |      Microservices     |  CI/CD pipelines  |
-|   Distributed systems   |    React, TypeScript    |  Event-driven systems  |    Docker, K8s    |
-|  High-performance code  |    Tailwind, Next.js    |     Kafka, Webhooks    |   Scalable infra  |
-
-</div>
-
----
-
-## 🛠️ **Technical Arsenal**
-
-### **💻 Programming Languages**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
----
-
-### **🏗️ Backend Development**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-</p>
-
----
-
-### **🎨 Frontend Development**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
----
-
-### **🗄️ Databases**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
----
-
-### **☁️ Cloud & DevOps**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-</p>
-
----
-
-### **🔧 Tools & Platforms**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
----
-
-## 📚 **Current Focus**
-
-* ☁️ Cloud automation + DevOps
-* ⚙️ Microservices & distributed systems
-* 🔐 Secure APIs and backend engineering
-* 🤝 Smooth system integrations
-* 🧠 AI-assisted application development
-
----
+me = AppliedAIEngineer()
+print(me.philosophy())
+```
 
 
 <div align="center">
+💡 Core Capabilities (Applied AI Focus)
+<table> <tr> <th>🤖 Applied AI & LLMs</th> <th>🔄 Agentic AI Systems</th> <th>🧠 Data & Retrieval</th> <th>🛠️ Production & MLOps</th> </tr> <tr> <td>LLM Applications</td> <td>Multi-Agent Systems</td> <td>RAG Pipelines</td> <td>CI/CD for AI</td> </tr> <tr> <td>Prompt Engineering</td> <td>Planner–Executor</td> <td>Vector Search</td> <td>Model Monitoring</td> </tr> <tr> <td>GenAI APIs</td> <td>Tool Calling</td> <td>Embeddings</td> <td>Observability & QA</td> </tr> <tr> <td>AI Evaluation</td> <td>Workflow Orchestration</td> <td>Hybrid Search</td> <td>Reliability Engineering</td> </tr> </table> </div>
 
-<img src="https://komarev.com/ghpvc/?username=abhishekbirajdar&label=Profile%20views&color=0e75b6&style=flat" />
+<br></br>
+## <p align="center">🛠️ Applied AI Stack</p>
+<p align="center"> 🧠 AI / LLM Engineering</p>
+<p align="center"> <img src="https://img.shields.io/badge/Applied%20AI-222222?style=for-the-badge"/> <img src="https://img.shields.io/badge/Generative%20AI-6F42C1?style=for-the-badge"/> <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge"/> <img src="https://img.shields.io/badge/RAG-00599C?style=for-the-badge"/> <img src="https://img.shields.io/badge/Agentic%20AI-0A66C2?style=for-the-badge"/> </p>
+<p align="center"> ⚙️ Frameworks & APIs</p>
+<p align="center"> <img src="https://img.shields.io/badge/OpenAI%20API-000000?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Azure%20OpenAI-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/CrewAI-111111?style=for-the-badge"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/> <img src="https://img.shields.io/badge/LangGraph-2E9EF7?style=for-the-badge"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> </p>
+<p align="center"> 🧱 Backend, Data & Pipelines</p>
+<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge"/> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/> <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/> </p>
+<p align="center"> ☁️ Production, Cloud & Reliability</p>
+<p align="center"> <img src="https://img.shields.io/badge/MLOps-2E9EF7?style=for-the-badge"/> <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/> <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge"/> </p>
 
-### ⚡ *"First, solve the problem. Then, write the code." — John Johnson*
+<br></br>
+## <p align="center">📌 What I Care About</p>
+    🤖 Applied AI over demos
+    🔄 Agentic systems that reason + act
+    🧪 Evaluation, guardrails, hallucination control
+    ⚙️ MLOps, monitoring, and production readiness
+    🏥 AI for real domains (Healthcare, FinTech, Enterprise Ops)
 
-</div>
+
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=abhishekbirajdar&label=Profile%20views&color=0e75b6&style=flat"/> <br/>
+⚡ <em>"AI is easy to build. Reliable AI is engineering."</em>
+
+
+</div> 
