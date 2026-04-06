@@ -9,7 +9,7 @@
 <br/>
 
 💻 <strong>Python Backend Engineer building AI-enabled systems</strong>  
-⚡ Applied AI | Agentic Workflows | Production Systems  
+⚡ ML Ops | Applied AI | Agentic Workflows | Production Systems  
 
 <br/>
 
