@@ -1,144 +1,222 @@
+
 <div align="center">
 
-<h1>👋 Hi, I'm <strong>Abhishek Birajdar</strong></h1>
+# 👋 Hi, I'm Abhishek Birajdar
 
-<img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=2E9EF7&center=true&vCenter=true&width=720&lines=Python+Backend+Engineer;AI-Enabled+Systems+Builder;Agentic+Workflows+%7C+LLM+APIs;From+Problem+→+Production;Building+Systems+That+Actually+Ship" 
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=2E9EF7&center=true&vCenter=true&width=800&lines=Full+Stack+Engineer+%7C+AI+Systems;Agentic+AI+%7C+LLMs+%7C+RAG;Persistent+Agents+%7C+Tool+Use+%7C+Memory;From+Ambiguous+Problem+→+Production;Building+AI+Systems+That+Actually+Complete+Work"
 />
 
 <br/>
 
-💻 <strong>Python Backend Engineer building AI-enabled systems</strong>  
-⚡ ML Ops | Applied AI | Agentic Workflows | Production Systems  
+### Full Stack AI Systems Engineer
 
-<br/>
+**Agents • LLM Applications • Retrieval • Reliability • Production Systems**
 
-🧠 I don’t build AI demos.  
-I build **backend systems where AI actually solves real-world workflows.**
+I build AI products that move beyond chat into  
+**persistent, goal-driven workflows that reason, use tools, recover from failures, and complete real work.**
 
 </div>
 
 ---
 
-## 🧭 My Engineering Lens
+## 🧠 What I Build
 
-```python
-class BackendAIEngineer:
-    def __init__(self):
-        self.name = "Abhishek Birajdar"
-        self.identity = "Backend-first engineer with AI leverage"
-        
-        self.builds = [
-            "FastAPI backend services & scalable APIs",
-            "LLM-powered workflows (RAG, agents, tool calling)",
-            "End-to-end systems (design → build → deploy)",
-            "Reliable AI systems (evaluation, monitoring, guardrails)"
-        ]
+| AI Product Systems | Agent Engineering | Production Reliability |
+|---|---|---|
+| Full-stack AI features | Multi-step workflows | Failure & recovery |
+| Real-time interactions | Memory & context | Evaluation & monitoring |
+| APIs & integrations | Tool calling | Fallbacks & validation |
+| Retrieval systems | Goal-driven agents | Human-in-the-loop |
+| Product workflows | Feedback loops | Observability |
 
-    def philosophy(self):
-        return "If it doesn’t work in production, it doesn’t matter."
-```
 ---
 
-## ⚡ What I Actually Do
+## ⚡ Engineering Focus
 
-<br/>
+I work across the full AI product lifecycle:
+
+**Understand the problem → design the workflow → build the product → evaluate failures → ship → iterate**
+
+My focus is not simply getting an LLM response.
+
+I care about whether the **entire task succeeds**:
+
+- Can the agent maintain context across multiple steps?
+- Can it select and use the right tools?
+- Can it recover when a model or API fails?
+- Can users understand what the system is doing?
+- Can the workflow remain reliable outside a demo?
+- Can we measure failures and improve them systematically?
+
+---
+
+## 🚀 What I'm Working On
+
+At **Johnson Controls**, I build internal AI systems for complex engineering workflows involving HVAC and electrical designs, 1,000+ page proposals, historical documents, and vendor quotations.
+
+The systems help engineering teams:
+
+- extract structured information from large technical documents
+- compare designs and vendor proposals
+- generate engineering I/O point lists
+- identify and triage potential defects
+- ground AI outputs against source evidence
+- combine automation with human review for critical decisions
+
+I work directly with **SMEs, directors, and engineering teams across Europe and Asia**, translating ambiguous workflows into reliable AI systems.
+
+---
+
+## 🧩 Featured AI Systems
+
+### 🧠 Cognitive Data Layer — CDL
+
+**Retrieval infrastructure for reliable AI context**
+
+Built a modular data layer that interprets queries, retrieves across stores, ranks evidence, builds structured context, and exposes observable AI workflows.
+
+`FastAPI` • `PostgreSQL` • `Qdrant` • `Redis` • `OpenAI` • `Anthropic` • `Prometheus` • `OpenTelemetry`
+
+**Built around:** retrieval orchestration, reranking, model fallbacks, evaluations, background jobs, observability, and production hardening.
+
+---
+
+### 📄 [ReSAP — Agentic Resume Workflow](https://github.com/zake1416/resapp)
+
+**Job description → evidence → resume → evaluation → outreach**
+
+Built an autonomous workflow that:
+
+`JD Analysis`
+→ `Competency Extraction`
+→ `Experience Mapping`
+→ `Resume Generation`
+→ `LaTeX / PDF`
+→ `Quality Evaluation`
+→ `Feedback Loop`
+→ `Recruiter Outreach`
+
+The system keeps generated claims grounded in structured experience data and makes each agent run inspectable.
+
+---
+
+### 🛡️ PR Governance Agent
+
+**AI-assisted software review with human approval**
+
+Built an agent that:
+
+`Reads PR`
+→ `Analyzes Changes`
+→ `Generates Edge Cases`
+→ `Runs Sandbox Tests`
+→ `Validates Behavior`
+→ `Produces Evidence`
+→ `Human Approval`
+
+Designed around the principle that AI should **increase engineering confidence, not bypass engineering judgment**.
+
+---
+
+### 🎙️ Kiara Voice Assistant
+
+**Real-time AI agent for recruiter conversations**
+
+Built a call-answering agent that interacts with **Kiara**, my personal AI assistant, to retrieve relevant career context during live recruiter conversations.
+
+Focused on real-time context retrieval, conversational continuity, tool use, and responsive AI interaction.
+
+---
+
+### 🔁 Recursive Agent Training
+
+**Learning systems for smaller specialized agents**
+
+Experimenting with reinforcement-learning and feedback-driven workflows that repeatedly train and evaluate specialized agents against task outcomes.
+
+Goal: improve useful task behavior through **evaluation and feedback**, not simply larger prompts or larger models.
+
+---
+
+## 🏗️ Builder Journey
+
+**Enterprise Production Systems → AI Products → Founder → Production AI Systems**
+
+**Johnson Controls**  
+Building reliability-critical AI agents for complex engineering and document workflows.
+
+**Findora — Founder**  
+Built an AI-agent marketplace for creating, training, improving, and monetizing specialized agents.
+
+**RoundTechSquare**  
+Built full-stack AI workflows turning conversations and project context into tasks, recommendations, and actions.
+
+**Accenture**  
+Owned reliability across 22 production applications supporting banking, payments, trading, and real-time APAC systems.
+
+---
+
+## 🛠️ Stack
 
 <div align="center">
 
-| 🧱 Backend Systems | 🤖 AI Integration | ⚙️ Production Thinking |
-|------------------|------------------|----------------------|
-| FastAPI / APIs | LLMs / RAG | Deployment & CI/CD |
-| Databases / Queues | Agentic workflows | Monitoring & evaluation |
-| System design | Tool calling | Reliability & scaling |
+### Product & Backend
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,fastapi" />
+
+### Data & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,docker,kubernetes,aws,git,github" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LLM%20Systems-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agentic%20AI-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-00599C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Tool%20Calling-6C5CE7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Evals-2E9EF7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Observability-FF6F00?style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🧠 Current Focus
+## 🎯 How I Think About AI Engineering
 
-<br/>
+> **The model is only one component of the product.**
 
-🚀 **Building systems that combine:**
+Reliable AI systems require more than prompting:
 
-- Backend architecture + AI reasoning  
-- APIs + agentic workflows  
-- Retrieval + decision-making systems  
+**Context + State + Tools + Reasoning + Validation + Recovery + Observability + Product UX**
 
-<br/>
-
-🎯 **Exploring:**
-
-- AI Backend Engineering  
-- Applied AI Systems  
-- Forward Deployed / Customer-facing engineering  
+The interesting engineering problem is making those pieces work together reliably when users, models, APIs, and real-world conditions are unpredictable.
 
 ---
 
-## 🔥 What Makes Me Different
+## 🌐 Let's Connect
 
-<br/>
+<div align="center">
 
-- I design **systems**, not just features  
-- I treat AI as a **capability layer**, not a gimmick  
-- I focus on **real workflows**, not isolated demos  
-- I care about **shipping, reliability, and impact**  
+<a href="https://linkedin.com/in/acbirajdar">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
----
+<a href="mailto:acbirajdar16@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail"/>
+</a>
 
-## 🛠️ Tech Stack
+<a href="https://github.com/zake1416">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-black?style=for-the-badge&logo=github"/>
+</a>
 
-<br/>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,aws,docker,postgres,redis,kafka" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-00599C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Agentic%20AI-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MLOps-2E9EF7?style=for-the-badge"/>
-</p>
-
----
-
-## 📌 What I Care About
-
-<br/>
-
-- Backend systems that solve real business problems  
-- AI that integrates into workflows (not just chat UIs)  
-- Evaluation, guardrails, and reliability  
-- Systems that scale and survive production  
-
----
-
-## 🌐 Let’s Connect
-
-<br/>
-
-<p align="center">
-  <a href="https://linkedin.com/in/acbirajdar">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  
-  <a href="mailto:acbirajdar16@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-<br/>
-
-⚡ <em>"Backend is the foundation. AI is the multiplier."</em>
-
-<br/>
+### Build AI that does the work — and still works when things go wrong.
 
 </div>
+
